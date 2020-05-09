@@ -83,13 +83,13 @@ p {
   line-height: 2;
 }
 
-.Img-Code {
+.Img-Code, .Img-SQL {
   width: 25%;
   float: left;
   padding-right: 30px;
 }
 
-.Img-SQL {
+ .Img-BI, .Img-Java {
   width: 25%;
   float: right;
   padding-left: 30px;
